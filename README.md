@@ -19,7 +19,29 @@
 
 ## 버전
 
+### 0.1Ver Server_Client
+##### 서버와 클라이언트 간 통신
+![서클커밋](https://user-images.githubusercontent.com/103040908/172261355-490f6634-43bf-429d-9cc9-57e2bf20bb62.PNG)
+![서클리시브](https://user-images.githubusercontent.com/103040908/172261444-84979e59-579a-4d3f-9df5-b4c20673e997.PNG)
+![서클센드](https://user-images.githubusercontent.com/103040908/172261451-01598ae3-da36-461a-b1c4-931922e5b9b8.PNG)
 
+### 0.2Ver Server_Main
+##### 서버모듈의 구동
+![서메커밋](https://user-images.githubusercontent.com/103040908/172261931-02424668-0fdd-4229-afda-7725efb718ec.PNG)
+![서메스타트서버](https://user-images.githubusercontent.com/103040908/172261933-7d6562d7-0b0d-4bf9-b8db-066556d117cc.PNG)
+![서메스탑서버](https://user-images.githubusercontent.com/103040908/172261934-cc16b716-fb51-467d-965d-021d7613536f.PNG)
+![서메스타트](https://user-images.githubusercontent.com/103040908/172261928-2269ea71-ea69-4482-8a53-7b9a6a0ead56.PNG)
+
+### 0.3Ver Client_Main
+##### 클라이언트(채팅방)
+![클메커밋](https://user-images.githubusercontent.com/103040908/172262155-18ec8e98-2cc7-4907-a929-b5f12aa38a59.PNG)
+![클메스타트클라이언트](https://user-images.githubusercontent.com/103040908/172262159-5a09de8a-dfe0-48f1-91c0-f10b9f76ae70.PNG)
+![클메스탑클라이언트](https://user-images.githubusercontent.com/103040908/172262164-ab125df4-b791-4fd5-9330-be1fc04ea1f0.PNG)
+![클메리시브센드](https://user-images.githubusercontent.com/103040908/172262170-2
+![클메스타트1](https://user-images.githubusercontent.com/103040908/172262176-363f949e-e9bf-484c-8ed5-6c387e5cce82.PNG)
+f424be6-9063-494d-b527-8fdbb48a71ae.PNG)
+![클메스타트2](https://user-images.githubusercontent.com/103040908/172262179-519242c2-013a-4a65-85fc-104311d38e1d.PNG)
+![클메오류화면](https://user-images.githubusercontent.com/103040908/172262210-aba01da8-cc9e-440b-83bc-d93c62d7e656.gif)
 
 ## 개발자
 #### WDA 2조
