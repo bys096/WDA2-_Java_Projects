@@ -37,9 +37,8 @@
 ![클메커밋](https://user-images.githubusercontent.com/103040908/172262155-18ec8e98-2cc7-4907-a929-b5f12aa38a59.PNG)
 ![클메스타트클라이언트](https://user-images.githubusercontent.com/103040908/172262159-5a09de8a-dfe0-48f1-91c0-f10b9f76ae70.PNG)
 ![클메스탑클라이언트](https://user-images.githubusercontent.com/103040908/172262164-ab125df4-b791-4fd5-9330-be1fc04ea1f0.PNG)
-![클메리시브센드](https://user-images.githubusercontent.com/103040908/172262170-2
-![클메스타트1](https://user-images.githubusercontent.com/103040908/172262176-363f949e-e9bf-484c-8ed5-6c387e5cce82.PNG)
-f424be6-9063-494d-b527-8fdbb48a71ae.PNG)
+![클메리시브센드](https://user-images.githubusercontent.com/103040908/172262904-67759e37-6312-41af-a264-c8546794ec8e.PNG)
+![클메스타트1](https://user-images.githubusercontent.com/103040908/172262932-5c905924-5c24-4e5b-9fac-2be44ebd6888.PNG)
 ![클메스타트2](https://user-images.githubusercontent.com/103040908/172262179-519242c2-013a-4a65-85fc-104311d38e1d.PNG)
 ![클메오류화면](https://user-images.githubusercontent.com/103040908/172262210-aba01da8-cc9e-440b-83bc-d93c62d7e656.gif)
 
